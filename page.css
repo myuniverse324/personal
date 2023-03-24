@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+  color: lightpink;
+  font-style: italic;
+  font-size: 40px;
+  background-color: darkgrey;
+}
+.a {
+  font-size: 30px;
+}
+.b{
+  font-size: 40px;
+}
+.c {
+  font-size: 30px;
+}
